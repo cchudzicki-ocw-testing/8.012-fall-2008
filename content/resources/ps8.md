@@ -4,7 +4,12 @@ description: "Problem set on classical mechanics, rectangular symmetry, and Eule
   s Disk."
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/8-012-physics-i-classical-mechanics-fall-2008/beb75f47b0625ad80652a57e54161a5b_ps8.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Problem Set 8
+type: OCWFile
 uid: beb75f47-b062-5ad8-0652-a57e54161a5b
 ---

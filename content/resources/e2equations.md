@@ -3,7 +3,12 @@ content_type: resource
 description: Formula sheet for an exam on classical mechanics.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/8-012-physics-i-classical-mechanics-fall-2008/c17329eefb4ebc654bff7c4a2276b57c_e2equations.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: Quiz 2 Equations
+type: OCWFile
 uid: c17329ee-fb4e-bc65-4bff-7c4a2276b57c
 ---
