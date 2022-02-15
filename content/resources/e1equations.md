@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: Quiz 1 Equations
-type: OCWFile
 uid: f86d8c26-6cf4-ad86-b727-856cf12df681
 ---

@@ -8,6 +8,5 @@ parent_title: Related Resources
 parent_type: CourseSection
 resourcetype: Document
 title: 2006 Final Exam Solutions
-type: OCWFile
 uid: 6472a8a7-6770-08d7-4cec-fee8c4ec4f17
 ---

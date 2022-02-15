@@ -8,6 +8,5 @@ parent_title: Related Resources
 parent_type: CourseSection
 resourcetype: Document
 title: 2005 Final Exam
-type: OCWFile
 uid: 53dd7a3f-aedd-3868-4051-d00a324a6abf
 ---

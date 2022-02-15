@@ -8,6 +8,5 @@ parent_title: Related Resources
 parent_type: CourseSection
 resourcetype: Document
 title: 2005 Midterm Exam 1
-type: OCWFile
 uid: 15feeea6-471b-c3ff-11ca-74e33fde4bd2
 ---

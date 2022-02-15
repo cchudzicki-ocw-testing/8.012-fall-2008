@@ -8,6 +8,5 @@ parent_title: Related Resources
 parent_type: CourseSection
 resourcetype: Document
 title: 2007 Midterm Exam 1 Solutions
-type: OCWFile
 uid: 963f30fd-7a51-b7ed-73cc-76658141851b
 ---

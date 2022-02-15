@@ -8,6 +8,5 @@ parent_title: Related Resources
 parent_type: CourseSection
 resourcetype: Document
 title: 2005 Exam 1 Solutions
-type: OCWFile
 uid: 8036698b-4c76-4be1-3025-c329b20d2e3d
 ---

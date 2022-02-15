@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: Final Exam Solutions
-type: OCWFile
 uid: d8132212-5af1-816e-7adc-21bf498701bc
 ---

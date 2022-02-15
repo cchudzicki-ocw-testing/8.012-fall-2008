@@ -8,6 +8,5 @@ parent_title: Related Resources
 parent_type: CourseSection
 resourcetype: Document
 title: 2006 Quiz 1 Solutions
-type: OCWFile
 uid: 34181845-3007-43c9-d006-ddf9bb93881d
 ---
