@@ -4,6 +4,7 @@ description: Exam on classical mechanics from a previous semester.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/8-012-physics-i-classical-mechanics-fall-2008/15feeea6471bc3ff11ca74e33fde4bd2_exam1.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
 resourcetype: Document

@@ -4,6 +4,7 @@ description: Solutions to a final exam on classical mechanics from a previous se
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/8-012-physics-i-classical-mechanics-fall-2008/f37391e90484436b555dad1d44af831b_final_f05sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
 resourcetype: Document
