@@ -67,7 +67,7 @@ SOLUTIONS
 ({{% resource_link 15feeea6-471b-c3ff-11ca-74e33fde4bd2 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 8036698b-4c76-4be1-3025-c329b20d2e3d "PDF" %}})
+({{% resource_link 8036698b-4c76-4be1-3025-c329b20d2e3d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -125,7 +125,7 @@ SOLUTIONS
 ({{% resource_link 9399a838-dbed-c52f-923d-069e4082d2c9 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link c774b045-5266-aed4-1c35-2907aa6d2ec6 "PDF" %}})
+({{% resource_link c774b045-5266-aed4-1c35-2907aa6d2ec6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -190,7 +190,7 @@ SOLUTIONS
 ({{% resource_link 53dd7a3f-aedd-3868-4051-d00a324a6abf "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link f37391e9-0484-436b-555d-ad1d44af831b "PDF" %}})
+({{% resource_link f37391e9-0484-436b-555d-ad1d44af831b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
