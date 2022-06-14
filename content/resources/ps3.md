@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set on classical mechanics.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/8-012-physics-i-classical-mechanics-fall-2008/34444c2193275cdea4f6bfbe9029279c_ps3.pdf
+file: /courses/8-012-physics-i-classical-mechanics-fall-2008/34444c2193275cdea4f6bfbe9029279c_ps3.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -13,3 +13,4 @@ resourcetype: Document
 title: Problem Set 3
 uid: 34444c21-9327-5cde-a4f6-bfbe9029279c
 ---
+Problem set on classical mechanics.
