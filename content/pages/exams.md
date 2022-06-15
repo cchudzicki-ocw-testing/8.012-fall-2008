@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides three in-class exams, the final exam, solutions,
+  and a formula sheets.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

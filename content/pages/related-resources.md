@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides links to related resources on classical mechanics
+  and exams and practice problems from previous classes along with solutions.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
