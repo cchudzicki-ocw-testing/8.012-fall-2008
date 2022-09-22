@@ -6,6 +6,7 @@ file: /courses/8-012-physics-i-classical-mechanics-fall-2008/eb1b3419ca143707020
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

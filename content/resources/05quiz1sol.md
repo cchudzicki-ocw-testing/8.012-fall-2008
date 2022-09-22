@@ -4,6 +4,7 @@ description: Solutions to an exam on classical mechanics from a previous semeste
 file: /courses/8-012-physics-i-classical-mechanics-fall-2008/8036698b4c764be13025c329b20d2e3d_05quiz1sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection

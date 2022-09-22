@@ -5,6 +5,7 @@ file: /courses/8-012-physics-i-classical-mechanics-fall-2008/d185f8235a1d0c00787
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
